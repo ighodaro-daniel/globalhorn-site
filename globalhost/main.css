@@ -1,0 +1,20 @@
+header{
+    background:url(img/parallax1.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+}
+
+
+@media screen and(max-width:670px){
+    header{
+        min-height : 500px;
+    }
+}
+span{
+    color:red
+}
+.section{
+    padding-top:6vh;
+    padding-bottom: 6vh;
+}
