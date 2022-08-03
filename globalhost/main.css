@@ -22,3 +22,4 @@ span{
 .transparent{
 background-color:rgb(0 0 0 /85%)!important;
 }
+@media(max-width:670px){img{margin:10px;height:400px;width:400px;padding:20px}}
